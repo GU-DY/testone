@@ -1,0 +1,2 @@
+{"current_steps": 500, "total_steps": 590, "loss": 0.1938, "eval_loss": null, "predict_loss": null, "reward": null, "learning_rate": 1.764128079927651e-06, "epoch": 4.24, "percentage": 84.75, "elapsed_time": "2:02:24", "remaining_time": "0:22:02"}
+{"current_steps": 590, "total_steps": 590, "loss": null, "eval_loss": null, "predict_loss": null, "reward": null, "learning_rate": null, "epoch": 5.0, "percentage": 100.0, "elapsed_time": "2:24:35", "remaining_time": "0:00:00"}
